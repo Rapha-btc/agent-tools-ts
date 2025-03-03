@@ -28,11 +28,17 @@
     "@stacks/transactions": "^6.17.0",
     "@stacks/wallet-sdk": "^6.17.0",
     "bitflow-sdk": "^1.6.1",
+<<<<<<< HEAD
     "chalk": "^5.4.1",
     "commander": "^11.1.0",
+=======
+    "chalk": "^5.3.0",
+    "commander": "^11.0.0",
+>>>>>>> 35f3592 (inter-runes)
     "dotenv": "^16.4.7",
     "eta": "^3.5.0",
     "ora": "^7.0.1",
+    "ordinalsbot": "^0.2.15",
     "stxcity-sdk": "^1.0.10",
     "tslib": "^2.8.1"
   },
